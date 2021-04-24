@@ -18,10 +18,12 @@ $ git clone
 
 E siga esses passos:
 
- Instal the dependecies
+ * Instal the dependecies
 $ yarn
- Start the project
-$ yarn dev
+ * Start the project
+$ yarn dev 
+* e
+$ yarn server
 
 ### Project
 
