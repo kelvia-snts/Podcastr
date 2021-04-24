@@ -14,15 +14,17 @@ Este projeto foi desenvolvido usando as seguintes tecnologias:
 
 CLone o projeto e acesse a pasta
 
-$ git clone
+$ git clone https://github.com/kelvia-snts/Podcastr.git
 
 E siga esses passos:
 
- * Instal the dependecies
+Instal the dependecies:
 $ yarn
- * Start the project
+
+Start the project:
 $ yarn dev 
-* e
+
+And:
 $ yarn server
 
 ### Project
