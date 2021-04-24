@@ -7,7 +7,7 @@ Este projeto foi desenvolvido usando as seguintes tecnologias:
 * React
 * TypeScript
 
-Getting Started
+### Getting Started
 
 CLone o projeto e acesse a pasta
 
@@ -15,9 +15,9 @@ $ git clone
 
 E siga esses passos:
 
-# Instal the dependecies
+ Instal the dependecies
 $ yarn
-# Start the project
+ Start the project
 $ yarn dev
 
 ### Project
