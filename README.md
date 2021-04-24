@@ -28,3 +28,9 @@ $ yarn server
 ### Project
 
 Podcastr - Projeto desenvolvido durante a Next Level Week, realizado por @Rocketseat de 19 a 25 de Abril de 2021.
+
+### Layout 
+
+Você pode ver o layout do projeto no link abaixo. Lembrando que você precisa ter uma conta de acesso do Figma.
+
+* https://www.figma.com/file/UwFEntsHpHYJlHNQAQr4gA/Podcastr?node-id=160%3A2761
